@@ -1,3 +1,8 @@
+# original article here: https://rglab.github.io/ImmuneSpaceR/articles/report_SDY144.html
+# modified cell population and time points of interest
+# -- myeloid dendritic cell, T cell
+# -- 28 days after vaccination
+
 library(ImmuneSpaceR)
 library(data.table)
 library(ggplot2)
